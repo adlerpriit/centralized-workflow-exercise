@@ -10,6 +10,8 @@ towards the template repository.
 
 ## Categories
 
+- [appetizers](appetizers)
+- [breakfast](breakfast)
 - [salads](salads)
 - [soups](soups)
 - [pasta](pasta)
