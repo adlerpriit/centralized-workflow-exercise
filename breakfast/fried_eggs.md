@@ -1,6 +1,6 @@
 ## Ingredients
 
- - eggs
+ - 3 eggs
  - boiling water
  - salt
  - pepper
