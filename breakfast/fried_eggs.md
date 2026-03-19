@@ -2,7 +2,7 @@
 
  - 3 eggs
  - hot water
- - salt
+ - salt (optional)
  - pepper
 
 ## Instructions
