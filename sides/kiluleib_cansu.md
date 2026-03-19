@@ -1,12 +1,12 @@
 This is the file for kiluleib recipe.
 
-Ingredients
+## Ingredients
 - dark bread
 - eggs
 - fish
 - pickled cucumbers
 - butter
 
-Instructions
+## Instructions
 - Spread the butter on the bread
 - Add the other ingredients on top
